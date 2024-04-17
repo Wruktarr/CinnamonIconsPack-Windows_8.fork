@@ -8,4 +8,4 @@ Windows 8 icon theme. although not differing much from Windows 7's icons, this i
 
 **Original license:** GPL v3, by [Ambiance-69](https://www.gnome-look.org/member/336792/)
 
-Installation - extract and move directory to: `/usr/share/icons`
+Installation for all users - extract and move directory to: `/usr/share/icons`
